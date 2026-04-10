@@ -8,7 +8,7 @@ name = input("Enter your Name: ")
 if not name:
     print("Invalid Name Input")
 else:
-    print("Wwlcome!", name)
+    print("Welcome!", name)
 
 math = int(input("Enter your marks (Math): "))
 english = int(input("Enter your marks (English): "))
